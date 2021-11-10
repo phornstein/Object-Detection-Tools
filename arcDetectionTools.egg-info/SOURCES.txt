@@ -1,0 +1,17 @@
+README.md
+setup.py
+arcDetectionTools.egg-info/PKG-INFO
+arcDetectionTools.egg-info/SOURCES.txt
+arcDetectionTools.egg-info/dependency_links.txt
+arcDetectionTools.egg-info/top_level.txt
+arcdetect/__init__.py
+arcdetect/arcdetect.py
+arcdetect/esri/arcpy/ObjectDetectionTools.py
+arcdetect/esri/help/gp/AttributeImageDetections_Object Detection Tools.xml
+arcdetect/esri/help/gp/Object Detection Tools_toolbox.xml
+arcdetect/esri/help/gp/SpaceTimeCorrelation_Object Detection Tools.xml
+arcdetect/esri/help/gp/toolboxes/ObjectDetectionTools.xml
+arcdetect/esri/toolboxes/ObjectDetectionTools.AttributeImageDetections.pyt.xml
+arcdetect/esri/toolboxes/ObjectDetectionTools.SpaceTimeCorrelation.pyt.xml
+arcdetect/esri/toolboxes/ObjectDetectionTools.pyt
+arcdetect/esri/toolboxes/ObjectDetectionTools.pyt.xml

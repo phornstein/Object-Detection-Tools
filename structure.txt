@@ -1,0 +1,18 @@
+Src
+└──foo
+    ├  __init__.py 
+    ├  bar.py
+    └──esri
+        ├──arcpy
+        │   └  SamplePythonToolbox.py
+        ├──help
+        │   └──gp
+        │       ├  SamplePythonToolbox_toolbox.xml
+        │       ├  SampleTool_SamplePythonToolbox.xml
+        │       ├──messages
+        │       └──toolboxes
+        │           └  SamplePythonToolbox.xml
+        └──toolboxes
+            ├  SamplePythonToolbox.pyt
+            ├  SamplePythonToolbox.pyt.xml
+            └  SamplePythonToolbox.SampleTool.pyt.xml
